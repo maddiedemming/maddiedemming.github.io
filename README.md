@@ -1,2 +1,2 @@
-# http://maddiedemming.github.io
+# http://scottstots.github.io
 Scotts Tots Webpage
